@@ -4,5 +4,6 @@ Foundational course for the [*Data Science and Artificial Intelligence*](https:/
 
 
 
-Lecturer: Dr. [Alessio Ansuini](https://www.areasciencepark.it/piattaforme-tecnologiche-update-2023/il-team/alessio-ansuini/) ([`alessio.ansuini@areasciencepark.it`](mailto:alessio.ansuini@areasciencepark.it))  
-Teaching Assistant: [Emanuele Ballarin](...) ([`emanuele@ballarin.cc`](mailto:emanuele@ballarin.cc))
+Lecturer: [Dr. Alessio Ansuini](https://www.areasciencepark.it/piattaforme-tecnologiche-update-2023/il-team/alessio-ansuini/) ([`alessio.ansuini@areasciencepark.it`](mailto:alessio.ansuini@areasciencepark.it))
+
+Teaching Assistant: [Emanuele Ballarin](https://ballarin.cc/) ([`emanuele@ballarin.cc`](mailto:emanuele@ballarin.cc))
