@@ -84,3 +84,4 @@ dependencies:
       - get-image-size>=0.2
       - timm
       - tyxe>=0.0.2
+      - pip_install_if_missing>=0.0.4

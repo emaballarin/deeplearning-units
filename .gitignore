@@ -201,3 +201,6 @@ fabric.properties
 
 # Weights and Biases local files
 .wandb/
+
+# Local scratchpads
+scratches/
