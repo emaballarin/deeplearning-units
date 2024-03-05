@@ -26,6 +26,4 @@ gitall:
 .PHONY: runlabs
 runlabs:
 	PYDEVD_DISABLE_FILE_VALIDATION=1 find "./labs/" -type f -name '*.ipynb' -exec jupyter nbconvert --ExecutePreprocessor.timeout=-1 --to notebook --inplace --execute "{}" \;
-	rm -rf "./labs/deeplearning_units_2024"
-	rm -rf "./labs/*/deeplearning_units_2024"
 	find "./labs/" -type f -name '*.pt' -delete -o -type f -name '*.pth' -delete -o -type f -name '*.safetensors' -delete
